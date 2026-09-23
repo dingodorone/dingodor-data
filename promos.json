@@ -1,22 +1,8 @@
 [
-  { "code": "FRBD04",  "brand": "AliExpress 🇫🇷", "desc": "4€ de remise dès 35€ d'achat", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
-  { "code": "FRBD08",  "brand": "AliExpress 🇫🇷", "desc": "8€ de remise dès 69€ d'achat", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
-  { "code": "FRBD12",  "brand": "AliExpress 🇫🇷", "desc": "12€ de remise dès 109€ d'achat", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
-  { "code": "FRBD25",  "brand": "AliExpress 🇫🇷", "desc": "25€ de remise dès 209€ d'achat", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
-  { "code": "FRBD40",  "brand": "AliExpress 🇫🇷", "desc": "40€ de remise dès 329€ d'achat", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
-  { "code": "BD04VIO", "brand": "AliExpress 🇧🇪", "desc": "4€ de remise dès 35€ d'achat", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
-  { "code": "BD08VIO", "brand": "AliExpress 🇧🇪", "desc": "8€ de remise dès 69€ d'achat", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
-  { "code": "BD12VIO", "brand": "AliExpress 🇧🇪", "desc": "12€ de remise dès 109€ d'achat", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
-  { "code": "BD25VIO", "brand": "AliExpress 🇧🇪", "desc": "25€ de remise dès 209€ d'achat", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
-  { "code": "BD40VIO", "brand": "AliExpress 🇧🇪", "desc": "40€ de remise dès 329€ d'achat", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
-  { "code": "10UPX1K7ODVGTO", "brand": "SwitchBot Amazon", "desc": "10% de réduction site officiel", "url": "https://amzn.to/3nsAaWu" },
-  { "code": "10Dingodor",     "brand": "SwitchBot Officiel", "desc": "Code promo exclusif Dingodor", "url": "https://www.switch-bot.com/?sca_ref=1102794.rW5weNSejk" },
-  { "code": "DEC88",   "brand": "GamsGo", "desc": "Netflix, Disney+, ChatGPT... 5% de réduction", "url": "https://www.gamsgo.com/partner/Gsbb4H" },
-  { "code": "25NOVS05", "brand": "GeekBuying", "desc": "55€ de remise dès 650€", "url": "https://www.geekbuying.com/go/8AN4bZMT" },
-  { "code": "25NOVS04", "brand": "GeekBuying", "desc": "35€ de remise dès 450€", "url": "https://www.geekbuying.com/go/8AN4bZMT" },
-  { "code": "25NOVS03", "brand": "GeekBuying", "desc": "25€ de remise dès 350€", "url": "https://www.geekbuying.com/go/8AN4bZMT" },
-  { "code": "25NOVS02", "brand": "GeekBuying", "desc": "15€ de remise dès 150€", "url": "https://www.geekbuying.com/go/8AN4bZMT" },
-  { "code": "25NOVS01", "brand": "GeekBuying", "desc": "5€ de remise dès 50€", "url": "https://www.geekbuying.com/go/8AN4bZMT" },
-  { "code": "25NOVSH1", "brand": "GeekBuying 🏠", "desc": "10€ dès 150€ (maison connectée)", "url": "https://www.geekbuying.com/go/8AN4bZMT" },
-  { "code": "25NOVSH2", "brand": "GeekBuying 🏠", "desc": "15€ dès 200€ (maison connectée)", "url": "https://www.geekbuying.com/go/8AN4bZMT" }
+  { "code": "FRBBC04", "shop": "AliExpress", "brand": "AliExpress 🇫🇷", "desc": "4 € de remise dès 35 € d’achat", "countries": ["🇫🇷"], "expires": "2026-09-23", "featured": true, "note": "Dernières heures — selon produits éligibles et stock disponible.", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
+  { "code": "FRBBC06", "shop": "AliExpress", "brand": "AliExpress 🇫🇷", "desc": "6 € de remise dès 59 € d’achat", "countries": ["🇫🇷"], "expires": "2026-09-23", "featured": true, "note": "Dernières heures — selon produits éligibles et stock disponible.", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
+  { "code": "FRBBC10", "shop": "AliExpress", "brand": "AliExpress 🇫🇷", "desc": "10 € de remise dès 99 € d’achat", "countries": ["🇫🇷"], "expires": "2026-09-23", "featured": true, "note": "Dernières heures — selon produits éligibles et stock disponible.", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
+  { "code": "FRBBC15", "shop": "AliExpress", "brand": "AliExpress 🇫🇷", "desc": "15 € de remise dès 139 € d’achat", "countries": ["🇫🇷"], "expires": "2026-09-23", "featured": true, "note": "Dernières heures — selon produits éligibles et stock disponible.", "url": "https://s.click.aliexpress.com/e/_opGvt8K" },
+  { "code": "10Dingodor", "shop": "SwitchBot", "brand": "SwitchBot officiel", "desc": "10 % de remise avec le code Dingodor", "countries": ["🇫🇷", "🇧🇪"], "note": "Code partenaire : vérifiez son application dans le panier selon les produits.", "url": "https://eu.switch-bot.com?sca_ref=2274537.x1K7OdVgTO&utm_source=uppromote&utm_medium=affiliate&utm_campaign=2274537" },
+  { "code": "DEC88", "shop": "GamsGo", "brand": "GamsGo", "desc": "5 % de réduction sur les abonnements éligibles", "countries": ["🇫🇷", "🇧🇪"], "note": "Vérifiez le service, la durée et le prix final avant paiement.", "url": "https://www.gamsgo.com/partner/Gsbb4H" }
 ]
