@@ -98,6 +98,104 @@
     "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
   },
   {
+    "code": "NWEPRD02",
+    "shop": "AliExpress",
+    "brand": "AliExpress",
+    "desc": "2 € de remise dès 18 € d’achat",
+    "countries": [
+      "🇧🇪"
+    ],
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
+    "featured": true,
+    "note": "Valable jusqu’au 7 octobre 2026 à 23:59 (CET) — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+  },
+  {
+    "code": "NWEPRD06",
+    "shop": "AliExpress",
+    "brand": "AliExpress",
+    "desc": "6 € de remise dès 45 € d’achat",
+    "countries": [
+      "🇧🇪"
+    ],
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
+    "featured": true,
+    "note": "Valable jusqu’au 7 octobre 2026 à 23:59 (CET) — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+  },
+  {
+    "code": "NWEPRD12",
+    "shop": "AliExpress",
+    "brand": "AliExpress",
+    "desc": "12 € de remise dès 89 € d’achat",
+    "countries": [
+      "🇧🇪"
+    ],
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
+    "featured": true,
+    "note": "Valable jusqu’au 7 octobre 2026 à 23:59 (CET) — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+  },
+  {
+    "code": "NWEPRD20",
+    "shop": "AliExpress",
+    "brand": "AliExpress",
+    "desc": "20 € de remise dès 159 € d’achat",
+    "countries": [
+      "🇧🇪"
+    ],
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
+    "featured": true,
+    "note": "Valable jusqu’au 7 octobre 2026 à 23:59 (CET) — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+  },
+  {
+    "code": "NWEPRD32",
+    "shop": "AliExpress",
+    "brand": "AliExpress",
+    "desc": "32 € de remise dès 255 € d’achat",
+    "countries": [
+      "🇧🇪"
+    ],
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
+    "featured": true,
+    "note": "Valable jusqu’au 7 octobre 2026 à 23:59 (CET) — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+  },
+  {
+    "code": "NWEPRD45",
+    "shop": "AliExpress",
+    "brand": "AliExpress",
+    "desc": "45 € de remise dès 355 € d’achat",
+    "countries": [
+      "🇧🇪"
+    ],
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
+    "featured": true,
+    "note": "Valable jusqu’au 7 octobre 2026 à 23:59 (CET) — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+  },
+  {
+    "code": "NWEPRD60",
+    "shop": "AliExpress",
+    "brand": "AliExpress",
+    "desc": "60 € de remise dès 479 € d’achat",
+    "countries": [
+      "🇧🇪"
+    ],
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
+    "featured": true,
+    "note": "Valable jusqu’au 7 octobre 2026 à 23:59 (CET) — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+  },
+  {
     "code": "10Dingodor",
     "shop": "SwitchBot",
     "brand": "SwitchBot officiel",
@@ -166,14 +264,7 @@
     "featured": true,
     "highlightTitle": "Sélection « frais de douane offerts »",
     "highlightUrl": "https://s.click.aliexpress.com/e/_c4VrmLrP",
-    "highlightNote": "Produits et conditions à consulter sur AliExpress ; le total dépend de la commande et du pays de livraison.",
-    "extraLinks": [
-      {
-        "country": "🇧🇪",
-        "label": "Codes Belgique disponibles",
-        "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
-      }
-    ]
+    "highlightNote": "Produits et conditions à consulter sur AliExpress ; le total dépend de la commande et du pays de livraison."
   },
   {
     "type": "store",
