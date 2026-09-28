@@ -150,23 +150,30 @@
       "🇫🇷",
       "🇧🇪"
     ],
-    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB",
+    "url": "https://s.click.aliexpress.com/e/_dWYns76",
     "links": [
       {
         "country": "🇫🇷",
         "label": "France",
-        "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+        "url": "https://s.click.aliexpress.com/e/_dWYns76"
       },
       {
         "country": "🇧🇪",
         "label": "Belgique",
-        "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+        "url": "https://s.click.aliexpress.com/e/_c30SBTPL"
       }
     ],
     "featured": true,
     "highlightTitle": "Sélection « frais de douane offerts »",
     "highlightUrl": "https://s.click.aliexpress.com/e/_c4VrmLrP",
-    "highlightNote": "Produits et conditions à consulter sur AliExpress ; le total dépend de la commande et du pays de livraison."
+    "highlightNote": "Produits et conditions à consulter sur AliExpress ; le total dépend de la commande et du pays de livraison.",
+    "extraLinks": [
+      {
+        "country": "🇫🇷 🇧🇪",
+        "label": "Autres codes disponibles",
+        "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+      }
+    ]
   },
   {
     "type": "store",
