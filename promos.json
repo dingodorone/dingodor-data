@@ -1,55 +1,101 @@
 [
   {
-    "code": "FRBBC04",
+    "code": "FRLD02",
     "shop": "AliExpress",
     "brand": "AliExpress",
-    "desc": "4 € de remise dès 35 € d’achat",
+    "desc": "2 € de remise dès 18 € d’achat",
     "countries": [
       "🇫🇷"
     ],
-    "expires": "2026-09-23",
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
     "featured": true,
-    "note": "Dernières heures — selon produits éligibles et stock disponible.",
-    "url": "https://s.click.aliexpress.com/e/_opGvt8K"
+    "note": "Valable du 1er au 7 octobre 2026 — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
   },
   {
-    "code": "FRBBC06",
+    "code": "FRLD06",
     "shop": "AliExpress",
     "brand": "AliExpress",
-    "desc": "6 € de remise dès 59 € d’achat",
+    "desc": "6 € de remise dès 45 € d’achat",
     "countries": [
       "🇫🇷"
     ],
-    "expires": "2026-09-23",
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
     "featured": true,
-    "note": "Dernières heures — selon produits éligibles et stock disponible.",
-    "url": "https://s.click.aliexpress.com/e/_opGvt8K"
+    "note": "Valable du 1er au 7 octobre 2026 — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
   },
   {
-    "code": "FRBBC10",
+    "code": "FRLD12",
     "shop": "AliExpress",
     "brand": "AliExpress",
-    "desc": "10 € de remise dès 99 € d’achat",
+    "desc": "12 € de remise dès 89 € d’achat",
     "countries": [
       "🇫🇷"
     ],
-    "expires": "2026-09-23",
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
     "featured": true,
-    "note": "Dernières heures — selon produits éligibles et stock disponible.",
-    "url": "https://s.click.aliexpress.com/e/_opGvt8K"
+    "note": "Valable du 1er au 7 octobre 2026 — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
   },
   {
-    "code": "FRBBC15",
+    "code": "FRLD20",
     "shop": "AliExpress",
     "brand": "AliExpress",
-    "desc": "15 € de remise dès 139 € d’achat",
+    "desc": "20 € de remise dès 159 € d’achat",
     "countries": [
       "🇫🇷"
     ],
-    "expires": "2026-09-23",
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
     "featured": true,
-    "note": "Dernières heures — selon produits éligibles et stock disponible.",
-    "url": "https://s.click.aliexpress.com/e/_opGvt8K"
+    "note": "Valable du 1er au 7 octobre 2026 — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+  },
+  {
+    "code": "FRLD30",
+    "shop": "AliExpress",
+    "brand": "AliExpress",
+    "desc": "30 € de remise dès 239 € d’achat",
+    "countries": [
+      "🇫🇷"
+    ],
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
+    "featured": true,
+    "note": "Valable du 1er au 7 octobre 2026 — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+  },
+  {
+    "code": "FRLD45",
+    "shop": "AliExpress",
+    "brand": "AliExpress",
+    "desc": "45 € de remise dès 355 € d’achat",
+    "countries": [
+      "🇫🇷"
+    ],
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
+    "featured": true,
+    "note": "Valable du 1er au 7 octobre 2026 — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
+  },
+  {
+    "code": "FRLD60",
+    "shop": "AliExpress",
+    "brand": "AliExpress",
+    "desc": "60 € de remise dès 475 € d’achat",
+    "countries": [
+      "🇫🇷"
+    ],
+    "starts": "2026-10-01",
+    "expires": "2026-10-07",
+    "featured": true,
+    "note": "Valable du 1er au 7 octobre 2026 — selon produits éligibles et stock disponible.",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
   },
   {
     "code": "10Dingodor",
@@ -104,17 +150,17 @@
       "🇫🇷",
       "🇧🇪"
     ],
-    "url": "https://s.click.aliexpress.com/e/_dWYns76",
+    "url": "https://s.click.aliexpress.com/e/_c3zXXZLB",
     "links": [
       {
         "country": "🇫🇷",
         "label": "France",
-        "url": "https://s.click.aliexpress.com/e/_dWYns76"
+        "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
       },
       {
         "country": "🇧🇪",
         "label": "Belgique",
-        "url": "https://s.click.aliexpress.com/e/_c30SBTPL"
+        "url": "https://s.click.aliexpress.com/e/_c3zXXZLB"
       }
     ],
     "featured": true,
